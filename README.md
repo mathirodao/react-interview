@@ -119,6 +119,7 @@ This project includes a dev container configuration for consistent development e
 
 ## Project Structure
 
+```bash
 src/
 ├── assets/
 │   └── logo.png
@@ -150,6 +151,7 @@ src/
 ├── index.css                # Global styles
 ├── main.tsx                 # Application entry point
 └── vite-env.d.ts           # Vite type definitions
+```
 
 ### Configuration Files
 
@@ -290,4 +292,5 @@ When contributing to this project:
 2. Maintain TypeScript type definitions
 3. Add appropriate error handling
 4. Update this documentation if needed
+
 5. Test with the backend API
